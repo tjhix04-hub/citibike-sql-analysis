@@ -1,7 +1,8 @@
 # CitiBike Ridership Analysis with SQL
 
 # Project overview 
-This project analyzes CitiBike trip data using SQL to explore rider usage, and operational trends
+This project analyzes CitiBike trip data using SQL to explore rider behavior, usage patterns, and operational trends. 
+The goal is to generate actionable insights that can help CitiBike improve operational efficiency, enhance rider satisfaction, and increase membership conversions.
 
 ## Tools 
 - SQL 
@@ -49,4 +50,16 @@ Rides peak during the 4 PM and 5 PM hour. CitiBike should ensure the ample numbe
 - Casual riders take longer trips, suggesting leisure usage and opportunity for targeted membership promotions
 - Operational efficiency can be improved by reallocating bikes to high-demand stations and peak hours
 
+## SQL Skills Demonstrated
 
+- SELECT, WHERE, ORDER BY
+- GROUP BY and aggregate functions (COUNT, AVG)
+- Filtering and sorting large datasets
+- Business-focused query analysis
+- Data aggregation and trend identification
+
+## Author
+
+Travis Hicks  
+Public Health Student | Aspiring Data Analyst  
+Skills: SQL, Excel, Tableau (in progress)
